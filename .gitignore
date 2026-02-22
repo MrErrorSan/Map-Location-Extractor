@@ -1,0 +1,8 @@
+.browser-profile/
+.browser-profile-w*/
+output/
+errors/
+*.partial.json
+.venv/
+__pycache__/
+*.pyc
